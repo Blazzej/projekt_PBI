@@ -1,0 +1,513 @@
+Report,Importer,Exporter,Timeframe,Current Year Week Ending,Period,Volume LBS
+Global,Canada,Mexico,Quarterly,2021,1,"66,274,481"
+Global,Canada,Peru,Quarterly,2021,1,"36,054"
+Global,Canada,United States,Quarterly,2021,1,"111,634"
+Global,Canada,Brazil,Quarterly,2021,1,"81,546"
+Global,Canada,Colombia,Quarterly,2021,1,"211,520"
+Global,Canada,Dominican Republic,Quarterly,2021,1,"755,631"
+Global,Canada,Taiwan,Quarterly,2021,1,
+Global,Canada,Uganda,Quarterly,2021,1,"1,396"
+Global,Canada,Cuba,Quarterly,2021,1,
+Global,Canada,Jamaica,Quarterly,2021,1,809
+Global,Canada,Israel,Quarterly,2021,1,
+Global,Canada,Haiti,Quarterly,2021,1,335
+Global,Canada,Germany,Quarterly,2021,1,4
+Global,Canada,Ecuador,Quarterly,2021,1,77
+Global,Canada,Dominica,Quarterly,2021,1,117
+Global,Canada,"Congo, Dem. Rep.",Quarterly,2021,1,33
+Global,Canada,China,Quarterly,2021,1,276
+Global,Canada,Cameroon,Quarterly,2021,1,55
+Global,China,Peru,Quarterly,2021,1,3901132
+Global,China,Mexico,Quarterly,2021,1,8071125
+Global,China,Philippines,Quarterly,2021,1,38497
+Global,China,United States,Quarterly,2021,1,142391
+Global,China,Chile,Quarterly,2021,1,2090325
+Global,China,Colombia,Quarterly,2021,1,264552
+Global,Chile,Peru,Quarterly,2021,1,16215733
+Global,Chile,Mexico,Quarterly,2021,1,9504370
+Global,Hong Kong,Peru,Quarterly,2021,1,2320950
+Global,Hong Kong,Australia,Quarterly,2021,1,460541
+Global,Hong Kong,Kenya,Quarterly,2021,1,161163
+Global,Hong Kong,United States,Quarterly,2021,1,265055
+Global,Hong Kong,Mexico,Quarterly,2021,1,4287751
+Global,Hong Kong,Tanzania,Quarterly,2021,1,4839
+Global,Hong Kong,South Africa,Quarterly,2021,1,2932
+Global,Hong Kong,Thailand,Quarterly,2021,1,
+Global,Hong Kong,Chile,Quarterly,2021,1,680853
+Global,Hong Kong,Indonesia,Quarterly,2021,1,1129
+Global,Hong Kong,Philippines,Quarterly,2021,1,
+Global,Hong Kong,Netherlands,Quarterly,2021,1,16499
+Global,Hong Kong,France,Quarterly,2021,1,2269
+Global,Hong Kong,Colombia,Quarterly,2021,1,300
+Global,Hong Kong,Ecuador,Quarterly,2021,1,31224
+Global,Hong Kong,Spain,Quarterly,2021,1,306
+Global,Hong Kong,United Kingdom,Quarterly,2021,1,2403
+Global,Hong Kong,Japan,Quarterly,2021,1,227
+Global,Hong Kong,Taiwan,Quarterly,2021,1,97
+Global,Hong Kong,Mozambique,Quarterly,2021,1,
+Global,Hong Kong,Turkey,Quarterly,2021,1,6737
+Global,Hong Kong,New Zealand,Quarterly,2021,1,135019
+Global,Hong Kong,Morocco,Quarterly,2021,1,1160
+Global,Hong Kong,Israel,Quarterly,2021,1,13814
+Global,Japan,Mexico,Quarterly,2021,1,43341329
+Global,Japan,Peru,Quarterly,2021,1,
+Global,Japan,United States,Quarterly,2021,1,8521
+Global,United States,Mexico,Quarterly,2021,1,747347574
+Global,United States,Peru,Quarterly,2021,1,190846
+Global,United States,Dominican Republic,Quarterly,2021,1,25813850
+Global,United States,Colombia,Quarterly,2021,1,348175
+Global,United States,Peru,Quarterly,2021,1,26261432
+Global,United States,South Africa,Quarterly,2021,1,3458903
+Global,United States,Kenya,Quarterly,2021,1,14428429
+Global,United States,Colombia,Quarterly,2021,1,57658690
+Global,United States,Mexico,Quarterly,2021,1,61425141
+Global,United States,Brazil,Quarterly,2021,1,1177594
+Global,United States,Israel,Quarterly,2021,1,39625407
+Global,United States,Tanzania,Quarterly,2021,1,2742086
+Global,United States,Mozambique,Quarterly,2021,1,430896
+Global,United States,Morocco,Quarterly,2021,1,49814242
+Global,United States,Zimbabwe,Quarterly,2021,1,
+Global,United States,Dominican Republic,Quarterly,2021,1,6386460
+Global,United States,Chile,Quarterly,2021,1,15596602
+Global,United States,Ecuador,Quarterly,2021,1,269257
+Global,United States,Uganda,Quarterly,2021,1,155962
+Global,United States,Cote d Ivoire,Quarterly,2021,1,
+Global,United States,United Kingdom,Quarterly,2021,1,1274078
+Global,United States,Not Determin Extra EU Trade,Quarterly,2021,1,
+Global,United States,Swaziland,Quarterly,2021,1,
+Global,United States,Cameroon,Quarterly,2021,1,11687
+Global,United States,Burundi,Quarterly,2021,1,7110
+Global,United States,United States,Quarterly,2021,1,22
+Global,United States,Rwanda,Quarterly,2021,1,159
+Global,United States,Lebanon,Quarterly,2021,1,428
+Global,United States,Turkey,Quarterly,2021,1,34672
+Global,United States,Cuba,Quarterly,2021,1,
+Global,United States,Dominica,Quarterly,2021,1,1931
+Global,United States,Kyrgyzstan,Quarterly,2021,1,
+Global,United States,Ghana,Quarterly,2021,1,935
+Global,United States,"Congo, Dem. Rep.",Quarterly,2021,1,44
+Global,United States,Vietnam,Quarterly,2021,1,
+Global,United States,Panama,Quarterly,2021,1,
+Global,United States,Sri Lanka,Quarterly,2021,1,
+Global,United States,Mali,Quarterly,2021,1,
+Global,United States,Togo,Quarterly,2021,1,75
+Global,United States,Thailand,Quarterly,2021,1,7
+Global,United States,India,Quarterly,2021,1,
+Global,United States,Saudi Arabia,Quarterly,2021,1,
+Global,United States,Egypt,Quarterly,2021,1,
+Global,United States,Singapore,Quarterly,2021,1,
+Global,United States,Mauritius,Quarterly,2021,1,99
+Global,United States,Malaysia,Quarterly,2021,1,9
+Global,United States,Madagascar,Quarterly,2021,1,245
+Global,United States,Kuwait,Quarterly,2021,1,11
+Global,United States,Indonesia,Quarterly,2021,1,4
+Global,United States,Guatemala,Quarterly,2021,1,2877909
+Global,United States,Costa Rica,Quarterly,2021,1,44445
+Global,EU,Chile,Quarterly,2021,1,"15,596,602"
+Global,EU,Mexico,Quarterly,2021,1,"61,425,141"
+Global,EU,Colombia,Quarterly,2021,1,"57,658,690"
+Global,EU,Israel,Quarterly,2021,1,"39,625,407"
+Global,EU,Peru,Quarterly,2021,1,"26,261,432"
+Global,EU,Morocco,Quarterly,2021,1,"49,814,242"
+Global,EU,Dominican Republic,Quarterly,2021,1,"6,386,460"
+Global,EU,South Africa,Quarterly,2021,1,"3,458,903"
+Global,EU,Kenya,Quarterly,2021,1,"14,428,429"
+Global,EU,Guatemala,Quarterly,2021,1,"2,877,909"
+Global,EU,Tanzania,Quarterly,2021,1,"2,742,086"
+Global,EU,Zimbabwe,Quarterly,2021,1,
+Global,EU,United Kingdom,Quarterly,2021,1,"1,274,078"
+Global,EU,Uganda,Quarterly,2021,1,"155,962"
+Global,EU,Ethiopia,Quarterly,2021,1,
+Global,EU,Ecuador,Quarterly,2021,1,"269,257"
+Global,EU,Brazil,Quarterly,2021,1,"1,177,594"
+Global,EU,Turkey,Quarterly,2021,1,"34,672"
+Global,EU,Dominica,Quarterly,2021,1,"1,931"
+Global,EU,Cameroon,Quarterly,2021,1,"11,687"
+Global,EU,Burundi,Quarterly,2021,1,"7,110"
+Global,EU,Thailand,Quarterly,2021,1,7
+Global,EU,Rwanda,Quarterly,2021,1,159
+Global,EU,Switzerland,Quarterly,2021,1,
+Global,EU,Cuba,Quarterly,2021,1,
+Global,EU,United Arab Emirates,Quarterly,2021,1,
+Global,EU,Lebanon,Quarterly,2021,1,428
+Global,EU,India,Quarterly,2021,1,
+Global,EU,Ghana,Quarterly,2021,1,935
+Global,EU,Sri Lanka,Quarterly,2021,1,
+Global,EU,Algeria,Quarterly,2021,1,
+Global,EU,Saudi Arabia,Quarterly,2021,1,
+Global,EU,China,Quarterly,2021,1,
+Global,EU,Iran,Quarterly,2021,1,
+Global,EU,United States,Quarterly,2021,1,22
+Global,EU,Australia,Quarterly,2021,1,
+Global,EU,Pakistan,Quarterly,2021,1,
+Global,EU,Vietnam,Quarterly,2021,1,
+Global,EU,Togo,Quarterly,2021,1,75
+Global,EU,Swaziland,Quarterly,2021,1,
+Global,EU,Singapore,Quarterly,2021,1,
+Global,EU,Paraguay,Quarterly,2021,1,
+Global,EU,Panama,Quarterly,2021,1,
+Global,EU,Not Determin Extra EU Trade,Quarterly,2021,1,
+Global,EU,Mozambique,Quarterly,2021,1,"430,896"
+Global,EU,Mauritius,Quarterly,2021,1,99
+Global,EU,Mali,Quarterly,2021,1,
+Global,EU,Malaysia,Quarterly,2021,1,9
+Global,EU,Madagascar,Quarterly,2021,1,245
+Global,EU,Kyrgyzstan,Quarterly,2021,1,
+Global,EU,Kuwait,Quarterly,2021,1,11
+Global,EU,Indonesia,Quarterly,2021,1,4
+Global,EU,Egypt,Quarterly,2021,1,
+Global,EU,Cote d Ivoire,Quarterly,2021,1,
+Global,EU,Costa Rica,Quarterly,2021,1,"44,445"
+Global,EU,"Congo, Dem. Rep.",Quarterly,2021,1,44
+Global,Canada,Mexico,Quarterly,2021,2,58601187
+Global,Canada,Peru,Quarterly,2021,2,1461478
+Global,Canada,United States,Quarterly,2021,2,578685
+Global,Canada,Brazil,Quarterly,2021,2,190169
+Global,Canada,Colombia,Quarterly,2021,2,151624
+Global,Canada,Dominican Republic,Quarterly,2021,2,115512
+Global,Canada,Taiwan,Quarterly,2021,2,1014
+Global,Canada,Uganda,Quarterly,2021,2,919
+Global,Canada,Cuba,Quarterly,2021,2,875
+Global,Canada,Jamaica,Quarterly,2021,2,483
+Global,Canada,Israel,Quarterly,2021,2,44
+Global,China,Peru,Quarterly,2021,2,17797543
+Global,China,Mexico,Quarterly,2021,2,3737452
+Global,China,Philippines,Quarterly,2021,2,200319
+Global,China,United States,Quarterly,2021,2,153784
+Global,China,Chile,Quarterly,2021,2,150193
+Global,Chile,Peru,Quarterly,2021,2,70452506
+Global,Chile,Mexico,Quarterly,2021,2,245835
+Global,Chile,Spain,Quarterly,2021,2,3
+Global,Hong Kong,Peru,Quarterly,2021,2,10951750
+Global,Hong Kong,Australia,Quarterly,2021,2,1859642
+Global,Hong Kong,Kenya,Quarterly,2021,2,1439410
+Global,Hong Kong,United States,Quarterly,2021,2,1032564
+Global,Hong Kong,Mexico,Quarterly,2021,2,697110
+Global,Hong Kong,Tanzania,Quarterly,2021,2,295386
+Global,Hong Kong,South Africa,Quarterly,2021,2,208403
+Global,Hong Kong,Thailand,Quarterly,2021,2,87296
+Global,Hong Kong,Chile,Quarterly,2021,2,74258
+Global,Hong Kong,Indonesia,Quarterly,2021,2,9795
+Global,Hong Kong,Philippines,Quarterly,2021,2,6984
+Global,Hong Kong,Netherlands,Quarterly,2021,2,4206
+Global,Hong Kong,France,Quarterly,2021,2,1717
+Global,Hong Kong,Colombia,Quarterly,2021,2,988
+Global,Hong Kong,Ecuador,Quarterly,2021,2,897
+Global,Hong Kong,Spain,Quarterly,2021,2,838
+Global,Hong Kong,United Kingdom,Quarterly,2021,2,628
+Global,Hong Kong,Japan,Quarterly,2021,2,20
+Global,Hong Kong,Taiwan,Quarterly,2021,2,11
+Global,Hong Kong,Mozambique,Quarterly,2021,2,9
+Global,Japan,Mexico,Quarterly,2021,2,35667195
+Global,Japan,Peru,Quarterly,2021,2,5151507
+Global,Japan,United States,Quarterly,2021,2,2637665
+Global,Japan,Dominican Republic,Quarterly,2021,2,3746
+Global,United States,Mexico,Quarterly,2021,2,562665195
+Global,United States,Peru,Quarterly,2021,2,41559238
+Global,United States,Dominican Republic,Quarterly,2021,2,15379495
+Global,United States,Colombia,Quarterly,2021,2,1097964
+Global,United States,Brazil,Quarterly,2021,2,256
+Global,United States,Peru,Quarterly,2021,2,264639409
+Global,United States,South Africa,Quarterly,2021,2,53784544
+Global,United States,Kenya,Quarterly,2021,2,51670035
+Global,United States,Colombia,Quarterly,2021,2,31708602
+Global,United States,Mexico,Quarterly,2021,2,11926137
+Global,United States,Brazil,Quarterly,2021,2,7124432
+Global,United States,Israel,Quarterly,2021,2,5589821
+Global,United States,Tanzania,Quarterly,2021,2,3439498
+Global,United States,Mozambique,Quarterly,2021,2,1936355
+Global,United States,Morocco,Quarterly,2021,2,1365155
+Global,United States,Zimbabwe,Quarterly,2021,2,922120
+Global,United States,Dominican Republic,Quarterly,2021,2,753651
+Global,United States,Chile,Quarterly,2021,2,333688
+Global,United States,Ecuador,Quarterly,2021,2,273994
+Global,United States,Uganda,Quarterly,2021,2,219082
+Global,United States,Cote d Ivoire,Quarterly,2021,2,213549
+Global,United States,United Kingdom,Quarterly,2021,2,183694
+Global,United States,Not Determin Extra EU Trade,Quarterly,2021,2,111312
+Global,United States,Swaziland,Quarterly,2021,2,44480
+Global,United States,Cameroon,Quarterly,2021,2,25192
+Global,United States,Burundi,Quarterly,2021,2,11956
+Global,United States,United States,Quarterly,2021,2,9974
+Global,United States,Rwanda,Quarterly,2021,2,5935
+Global,United States,Lebanon,Quarterly,2021,2,2399
+Global,United States,Turkey,Quarterly,2021,2,2368
+Global,United States,Cuba,Quarterly,2021,2,2224
+Global,United States,Dominica,Quarterly,2021,2,1975
+Global,United States,Kyrgyzstan,Quarterly,2021,2,1481
+Global,United States,Ghana,Quarterly,2021,2,1312
+Global,United States,"Congo, Dem. Rep.",Quarterly,2021,2,1049
+Global,United States,Vietnam,Quarterly,2021,2,148
+Global,United States,Panama,Quarterly,2021,2,117
+Global,United States,Sri Lanka,Quarterly,2021,2,104
+Global,United States,Mali,Quarterly,2021,2,88
+Global,United States,Togo,Quarterly,2021,2,66
+Global,United States,Thailand,Quarterly,2021,2,64
+Global,United States,India,Quarterly,2021,2,22
+Global,United States,Saudi Arabia,Quarterly,2021,2,18
+Global,United States,Egypt,Quarterly,2021,2,9
+Global,United States,Singapore,Quarterly,2021,2,4
+Global,EU,Chile,Quarterly,2021,2,"333,688"
+Global,EU,Mexico,Quarterly,2021,2,"11,926,133"
+Global,EU,Colombia,Quarterly,2021,2,"31,708,582"
+Global,EU,Israel,Quarterly,2021,2,"5,589,821"
+Global,EU,Peru,Quarterly,2021,2,"264,739,972"
+Global,EU,Morocco,Quarterly,2021,2,"1,365,155"
+Global,EU,Dominican Republic,Quarterly,2021,2,"753,651"
+Global,EU,South Africa,Quarterly,2021,2,"53,784,540"
+Global,EU,Kenya,Quarterly,2021,2,"51,670,066"
+Global,EU,Guatemala,Quarterly,2021,2,
+Global,EU,Tanzania,Quarterly,2021,2,"3,439,498"
+Global,EU,Zimbabwe,Quarterly,2021,2,"922,120"
+Global,EU,United Kingdom,Quarterly,2021,2,"184,190"
+Global,EU,Uganda,Quarterly,2021,2,"219,082"
+Global,EU,Ethiopia,Quarterly,2021,2,
+Global,EU,Ecuador,Quarterly,2021,2,"273,994"
+Global,EU,Brazil,Quarterly,2021,2,"7,124,414"
+Global,EU,Turkey,Quarterly,2021,2,"2,368"
+Global,EU,Dominica,Quarterly,2021,2,"1,975"
+Global,EU,Cameroon,Quarterly,2021,2,"25,192"
+Global,EU,Burundi,Quarterly,2021,2,"11,956"
+Global,EU,Thailand,Quarterly,2021,2,64
+Global,EU,Rwanda,Quarterly,2021,2,"5,935"
+Global,EU,Switzerland,Quarterly,2021,2,
+Global,EU,Cuba,Quarterly,2021,2,"2,224"
+Global,EU,United Arab Emirates,Quarterly,2021,2,
+Global,EU,Lebanon,Quarterly,2021,2,"2,399"
+Global,EU,India,Quarterly,2021,2,22
+Global,EU,Ghana,Quarterly,2021,2,"1,312"
+Global,EU,Sri Lanka,Quarterly,2021,2,104
+Global,EU,Algeria,Quarterly,2021,2,
+Global,EU,Saudi Arabia,Quarterly,2021,2,18
+Global,EU,China,Quarterly,2021,2,
+Global,EU,Iran,Quarterly,2021,2,
+Global,EU,United States,Quarterly,2021,2,"9,974"
+Global,EU,Australia,Quarterly,2021,2,
+Global,EU,Pakistan,Quarterly,2021,2,
+Global,EU,Vietnam,Quarterly,2021,2,148
+Global,EU,Togo,Quarterly,2021,2,66
+Global,EU,Swaziland,Quarterly,2021,2,"44,480"
+Global,EU,Singapore,Quarterly,2021,2,4
+Global,EU,Paraguay,Quarterly,2021,2,
+Global,EU,Panama,Quarterly,2021,2,117
+Global,EU,Not Determin Extra EU Trade,Quarterly,2021,2,"111,312"
+Global,EU,Mozambique,Quarterly,2021,2,"1,936,355"
+Global,EU,Mauritius,Quarterly,2021,2,
+Global,EU,Mali,Quarterly,2021,2,88
+Global,EU,Malaysia,Quarterly,2021,2,
+Global,EU,Madagascar,Quarterly,2021,2,
+Global,EU,Kyrgyzstan,Quarterly,2021,2,"1,481"
+Global,EU,Kuwait,Quarterly,2021,2,
+Global,EU,Indonesia,Quarterly,2021,2,
+Global,EU,Egypt,Quarterly,2021,2,9
+Global,EU,Cote d Ivoire,Quarterly,2021,2,"213,549"
+Global,EU,Costa Rica,Quarterly,2021,2,
+Global,EU,"Congo, Dem. Rep.",Quarterly,2021,2,"1,049"
+Global,Canada,Mexico,Quarterly,2021,3,46062376
+Global,Canada,Dominican Republic,Quarterly,2021,3,332914
+Global,Canada,United States,Quarterly,2021,3,382897
+Global,Canada,Peru,Quarterly,2021,3,7783852
+Global,Canada,Jamaica,Quarterly,2021,3,75195
+Global,Canada,Costa Rica,Quarterly,2021,3,
+Global,Canada,Colombia,Quarterly,2021,3,144254
+Global,Canada,Uganda,Quarterly,2021,3,1100
+Global,Canada,Cameroon,Quarterly,2021,3,11
+Global,Canada,Grenada,Quarterly,2021,3,
+Global,Canada,St. Lucia,Quarterly,2021,3,
+Global,Canada,Guatemala,Quarterly,2021,3,
+Global,Canada,Taiwan,Quarterly,2021,3,132
+Global,Canada,Nigeria,Quarterly,2021,3,73
+Global,Canada,Morocco,Quarterly,2021,3,
+Global,Canada,Israel,Quarterly,2021,3,
+Global,Canada,Trinidad & Tobago,Quarterly,2021,3,11
+Global,Canada,Ghana,Quarterly,2021,3,33
+Global,Canada,Cuba,Quarterly,2021,3,14866
+Global,Canada,China,Quarterly,2021,3,1096
+Global,Canada,Brazil,Quarterly,2021,3,27161
+Global,Chile,Peru,Quarterly,2021,3,60642812
+Global,Chile,Brazil,Quarterly,2021,3,49524
+Global,Chile,Argentina,Quarterly,2021,3,151324
+Global,China,Chile,Quarterly,2021,3,
+Global,China,Peru,Quarterly,2021,3,"28,885,504"
+Global,China,Mexico,Quarterly,2021,3,"914,096"
+Global,China,New Zealand,Quarterly,2021,3,"181,223"
+Global,China,Philippines,Quarterly,2021,3,13
+Global,China,Colombia,Quarterly,2021,3,"242,277"
+Global,Hong Kong,Chile,Quarterly,2021,3,109591
+Global,Hong Kong,Peru,Quarterly,2021,3,12113883
+Global,Hong Kong,Australia,Quarterly,2021,3,2479880
+Global,Hong Kong,Mexico,Quarterly,2021,3,2921715
+Global,Hong Kong,New Zealand,Quarterly,2021,3,254246
+Global,Hong Kong,United States,Quarterly,2021,3,224159
+Global,Hong Kong,Namibia,Quarterly,2021,3,36861
+Global,Hong Kong,South Africa,Quarterly,2021,3,249144
+Global,Hong Kong,Netherlands,Quarterly,2021,3,21819
+Global,Hong Kong,Philippines,Quarterly,2021,3,18940
+Global,Hong Kong,Turkey,Quarterly,2021,3,
+Global,Hong Kong,Israel,Quarterly,2021,3,
+Global,Hong Kong,Taiwan,Quarterly,2021,3,6184
+Global,Hong Kong,Thailand,Quarterly,2021,3,46561
+Global,Hong Kong,Japan,Quarterly,2021,3,139
+Global,Hong Kong,Spain,Quarterly,2021,3,88
+Global,Hong Kong,United Kingdom,Quarterly,2021,3,511
+Global,Hong Kong,Canada,Quarterly,2021,3,
+Global,Hong Kong,France,Quarterly,2021,3,567
+Global,Hong Kong,Indonesia,Quarterly,2021,3,302
+Global,Hong Kong,Kenya,Quarterly,2021,3,114137
+Global,Hong Kong,India,Quarterly,2021,3,2094
+Global,Hong Kong,Ecuador,Quarterly,2021,3,1045
+Global,Hong Kong,Brazil,Quarterly,2021,3,11
+Global,Japan,Mexico,Quarterly,2021,3,"26,319,250"
+Global,Japan,Peru,Quarterly,2021,3,"17,379,343"
+Global,Japan,New Zealand,Quarterly,2021,3,"63,788"
+Global,Japan,United States,Quarterly,2021,3,"82,390"
+Global,Japan,Colombia,Quarterly,2021,3,"79,802"
+Global,United States,Mexico,Quarterly,2021,3,"459,516,985"
+Global,United States,Dominican Republic,Quarterly,2021,3,"14,991,091"
+Global,United States,Chile,Quarterly,2021,3,"982,506"
+Global,United States,Peru,Quarterly,2021,3,"138,139,790"
+Global,United States,Colombia,Quarterly,2021,3,"3,815,678"
+Global,EU,Chile,Quarterly,2021,3,"2,388,091"
+Global,EU,Mexico,Quarterly,2021,3,"24,090,421"
+Global,EU,Colombia,Quarterly,2021,3,"44,656,697"
+Global,EU,Israel,Quarterly,2021,3,"4,373,389"
+Global,EU,Peru,Quarterly,2021,3,"272,911,613"
+Global,EU,Morocco,Quarterly,2021,3,
+Global,EU,Dominican Republic,Quarterly,2021,3,"1,556,432"
+Global,EU,South Africa,Quarterly,2021,3,"25,883,440"
+Global,EU,Kenya,Quarterly,2021,3,"33,787,884"
+Global,EU,Guatemala,Quarterly,2021,3,"343,177"
+Global,EU,Tanzania,Quarterly,2021,3,"4,808,078"
+Global,EU,Zimbabwe,Quarterly,2021,3,"4,520,887"
+Global,EU,United Kingdom,Quarterly,2021,3,"220,116"
+Global,EU,Uganda,Quarterly,2021,3,"181,749"
+Global,EU,Ethiopia,Quarterly,2021,3,"47,674"
+Global,EU,Ecuador,Quarterly,2021,3,"46,266"
+Global,EU,Brazil,Quarterly,2021,3,"2,748,080"
+Global,EU,Turkey,Quarterly,2021,3,"58,817"
+Global,EU,Dominica,Quarterly,2021,3,"32,566"
+Global,EU,Cameroon,Quarterly,2021,3,"25,906"
+Global,EU,Burundi,Quarterly,2021,3,"7,266"
+Global,EU,Thailand,Quarterly,2021,3,
+Global,EU,Rwanda,Quarterly,2021,3,
+Global,EU,Switzerland,Quarterly,2021,3,18
+Global,EU,Cuba,Quarterly,2021,3,"7,282"
+Global,EU,United Arab Emirates,Quarterly,2021,3,
+Global,EU,Lebanon,Quarterly,2021,3,57
+Global,EU,India,Quarterly,2021,3,4
+Global,EU,Ghana,Quarterly,2021,3,767
+Global,EU,Sri Lanka,Quarterly,2021,3,168
+Global,EU,Algeria,Quarterly,2021,3,22
+Global,EU,Saudi Arabia,Quarterly,2021,3,20
+Global,EU,China,Quarterly,2021,3,2
+Global,EU,Iran,Quarterly,2021,3,
+Global,EU,United States,Quarterly,2021,3,7
+Global,EU,Australia,Quarterly,2021,3,66
+Global,EU,Pakistan,Quarterly,2021,3,
+Global,EU,Vietnam,Quarterly,2021,3,
+Global,EU,Togo,Quarterly,2021,3,7
+Global,EU,Swaziland,Quarterly,2021,3,"356,854"
+Global,EU,Singapore,Quarterly,2021,3,
+Global,EU,Paraguay,Quarterly,2021,3,110
+Global,EU,Egypt,Quarterly,2021,3,"8,466"
+Global,EU,Cote d Ivoire,Quarterly,2021,3,35
+Global,EU,Costa Rica,Quarterly,2021,3,
+Global,EU,"Congo, Dem. Rep.",Quarterly,2021,3,220
+Global,Canada,Mexico,Quarterly,2021,4,57092374
+Global,Canada,Dominican Republic,Quarterly,2021,4,686281
+Global,Canada,United States,Quarterly,2021,4,177226
+Global,Canada,Peru,Quarterly,2021,4,134273
+Global,Canada,Jamaica,Quarterly,2021,4,74121
+Global,Canada,Costa Rica,Quarterly,2021,4,16623
+Global,Canada,Colombia,Quarterly,2021,4,5013
+Global,Canada,Uganda,Quarterly,2021,4,1171
+Global,Canada,Cameroon,Quarterly,2021,4,414
+Global,Canada,Grenada,Quarterly,2021,4,240
+Global,Canada,St. Lucia,Quarterly,2021,4,104
+Global,Canada,Guatemala,Quarterly,2021,4,46
+Global,Canada,Taiwan,Quarterly,2021,4,44
+Global,Canada,Nigeria,Quarterly,2021,4,44
+Global,Canada,Morocco,Quarterly,2021,4,44
+Global,Canada,Israel,Quarterly,2021,4,33
+Global,Chile,Peru,Quarterly,2021,4,743212
+Global,Chile,Chile,Quarterly,2021,4,85675
+Global,Chile,Taiwan,Quarterly,2021,4,1367
+Global,Chile,Colombia,Quarterly,2021,4,11
+Global,China,Chile,Quarterly,2021,4,"11,663,051"
+Global,China,Peru,Quarterly,2021,4,"7,371,684"
+Global,China,Mexico,Quarterly,2021,4,"2,902,731"
+Global,China,New Zealand,Quarterly,2021,4,"2,245,249"
+Global,China,Philippines,Quarterly,2021,4,"124,688"
+Global,China,Colombia,Quarterly,2021,4,"34,850"
+Global,Hong Kong,Chile,Quarterly,2021,4,"7,816,438"
+Global,Hong Kong,Peru,Quarterly,2021,4,"5,726,998"
+Global,Hong Kong,Australia,Quarterly,2021,4,"2,741,489"
+Global,Hong Kong,Mexico,Quarterly,2021,4,"2,604,056"
+Global,Hong Kong,New Zealand,Quarterly,2021,4,"2,207,012"
+Global,Hong Kong,United States,Quarterly,2021,4,"102,163"
+Global,Hong Kong,Namibia,Quarterly,2021,4,"79,207"
+Global,Hong Kong,South Africa,Quarterly,2021,4,"61,619"
+Global,Hong Kong,Netherlands,Quarterly,2021,4,"54,846"
+Global,Hong Kong,Philippines,Quarterly,2021,4,"18,624"
+Global,Hong Kong,Turkey,Quarterly,2021,4,"9,286"
+Global,Hong Kong,Israel,Quarterly,2021,4,"3,113"
+Global,Hong Kong,Taiwan,Quarterly,2021,4,"2,626"
+Global,Hong Kong,Thailand,Quarterly,2021,4,"2,610"
+Global,Hong Kong,Japan,Quarterly,2021,4,"2,438"
+Global,Hong Kong,Spain,Quarterly,2021,4,"2,143"
+Global,Hong Kong,United Kingdom,Quarterly,2021,4,617
+Global,Hong Kong,Canada,Quarterly,2021,4,441
+Global,Hong Kong,France,Quarterly,2021,4,408
+Global,Hong Kong,Indonesia,Quarterly,2021,4,176
+Global,Hong Kong,Kenya,Quarterly,2021,4,44
+Global,Hong Kong,Colombia,Quarterly,2021,4,18
+Global,Hong Kong,Other Middle & Near Eastern,Quarterly,2021,4,11
+Global,Hong Kong,Tanzania,Quarterly,2021,4,9
+Global,Hong Kong,Morocco,Quarterly,2021,4,9
+Global,Japan,Mexico,Quarterly,2021,4,"36,808,460"
+Global,Japan,Peru,Quarterly,2021,4,"1,171,163"
+Global,Japan,New Zealand,Quarterly,2021,4,"194,823"
+Global,Japan,Australia,Quarterly,2021,4,"160,499"
+Global,Japan,United States,Quarterly,2021,4,"10,545"
+Global,United States,Mexico,Quarterly,2021,4,"623,238,725"
+Global,United States,Dominican Republic,Quarterly,2021,4,"23,664,486"
+Global,United States,Chile,Quarterly,2021,4,"8,000,291"
+Global,United States,Peru,Quarterly,2021,4,"6,462,964"
+Global,United States,Colombia,Quarterly,2021,4,"1,873,246"
+Global,EU,Chile,Quarterly,2021,4,104073637
+Global,EU,Mexico,Quarterly,2021,4,68062149
+Global,EU,Colombia,Quarterly,2021,4,53841628
+Global,EU,Israel,Quarterly,2021,4,49925658
+Global,EU,Peru,Quarterly,2021,4,22622962
+Global,EU,Morocco,Quarterly,2021,4,16821906
+Global,EU,Dominican Republic,Quarterly,2021,4,14248643
+Global,EU,South Africa,Quarterly,2021,4,8883800
+Global,EU,Kenya,Quarterly,2021,4,7604600
+Global,EU,Guatemala,Quarterly,2021,4,2228090
+Global,EU,Tanzania,Quarterly,2021,4,1430935
+Global,EU,Zimbabwe,Quarterly,2021,4,662976
+Global,EU,United Kingdom,Quarterly,2021,4,180380
+Global,EU,Uganda,Quarterly,2021,4,180288
+Global,EU,Ethiopia,Quarterly,2021,4,163396
+Global,EU,Ecuador,Quarterly,2021,4,153006
+Global,EU,Brazil,Quarterly,2021,4,150080
+Global,EU,Turkey,Quarterly,2021,4,116152
+Global,EU,Dominica,Quarterly,2021,4,41129
+Global,EU,Cameroon,Quarterly,2021,4,16164
+Global,EU,Burundi,Quarterly,2021,4,9813
+Global,EU,Thailand,Quarterly,2021,4,5628
+Global,EU,Rwanda,Quarterly,2021,4,3563
+Global,EU,Switzerland,Quarterly,2021,4,3042
+Global,EU,Cuba,Quarterly,2021,4,2840
+Global,EU,United Arab Emirates,Quarterly,2021,4,767
+Global,EU,Lebanon,Quarterly,2021,4,589
+Global,EU,India,Quarterly,2021,4,492
+Global,EU,Ghana,Quarterly,2021,4,366
+Global,EU,Sri Lanka,Quarterly,2021,4,128
+Global,EU,Algeria,Quarterly,2021,4,93
+Global,EU,Saudi Arabia,Quarterly,2021,4,42
+Global,EU,China,Quarterly,2021,4,24
+Global,EU,Iran,Quarterly,2021,4,7
+Global,EU,United States,Quarterly,2021,4,2
+Global,EU,Australia,Quarterly,2021,4,2
+Global,EU,Pakistan,Quarterly,2021,4,0
