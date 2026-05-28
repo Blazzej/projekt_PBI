@@ -6,7 +6,15 @@ Opis tabel:
 - tabela 3: porównanie cen i sprzedaży awokado do innych owoców
 - tabela 4: global trade
 
+Dashboardy: (zapisac jakie wykresy i po co)
+- tabela 1: 
+- tabela 2: 
+- tabela 3: 
+- tabela 4: 
+
 Podział dashboardów(nr. tabeli):
 - Błażej:
 - Adrian: 
-- Bartosz(wszystko): 
+- Bartosz(wszystko):
+
+Ważne: SPRAWDZIC POPRAWNOSC DANYCH W TABELACH ORAZ ZMIENIC TYPY DANYCH
