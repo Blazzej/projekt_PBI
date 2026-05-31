@@ -77,6 +77,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Timeframe</remote-name>
@@ -92,6 +93,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Period</remote-name>
@@ -106,6 +108,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Type</remote-name>
@@ -121,6 +124,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Geography</remote-name>
@@ -136,6 +140,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Current Year Week Ending</remote-name>
@@ -148,6 +153,7 @@
             <aggregation>Year</aggregation>
             <contains-null>true</contains-null>
             <collation flag='1' name='LPL_RPL_S2' />
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>ASP Current Year</remote-name>
@@ -163,6 +169,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Total Bulk and Bags</remote-name>
@@ -178,6 +185,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>4046</remote-name>
@@ -193,6 +201,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>4225</remote-name>
@@ -208,6 +217,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>4770</remote-name>
@@ -223,6 +233,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>TotalBagged</remote-name>
@@ -238,6 +249,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Sml Bagged</remote-name>
@@ -253,6 +265,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Lrg Bagged</remote-name>
@@ -268,6 +281,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>X-Lrg Bagged</remote-name>
@@ -283,6 +297,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Unknown Bag Size</remote-name>
@@ -298,6 +313,7 @@
             <attributes>
               <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
             </attributes>
+            <object-id>[Sheet1_3280B993B9104C89974E1C53CB47FE09]</object-id>
           </metadata-record>
         </metadata-records>
       </connection>
@@ -872,6 +888,13 @@
           <style-rule element='axis'>
             <format attr='title' class='0' field='[federated.0zz67o202xzi6j1gdtcyd0ihazcc].[tmn:Current Year Week Ending:qk]' scope='cols' value='Month' />
           </style-rule>
+          <style-rule element='quick-filter'>
+            <format attr='title' field='[federated.0zz67o202xzi6j1gdtcyd0ihazcc].[none:Current Year Week Ending:qk]' value='Range of date'>
+              <formatted-text>
+                <run>Range of date</run>
+              </formatted-text>
+            </format>
+          </style-rule>
         </style>
         <panes>
           <pane id='4' selection-relaxation-option='selection-relaxation-allow'>
@@ -1188,8 +1211,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1550' minheight='1550' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='30' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='29' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='32' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='31' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone h='13125' id='19' mode='checkdropdown' name='KPI 4046' param='[federated.0zz67o202xzi6j1gdtcyd0ihazcc].[none:Type:nk]' type-v2='filter' w='16000' x='83200' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
