@@ -13,8 +13,8 @@ Dashboardy: (zapisac jakie wykresy i po co)
 - tabela 4: 
 
 Podział dashboardów(nr. tabeli):
-- Błażej:
-- Adrian: 
-- Bartosz(wszystko):
+- Błażej: 1
+- Adrian: 2 i 3
+- Bartosz(wszystko): 4
 
 Ważne: SPRAWDZIC POPRAWNOSC DANYCH W TABELACH ORAZ ZMIENIC TYPY DANYCH
